@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#
 # Defining the Variables
 POKEMON_NAME = "pikachu"
 API_URL = "https://pokeapi.co/api/v2/pokemon/${POKEMON_NAME}"
